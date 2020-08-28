@@ -13,7 +13,7 @@ This simple calculator can add, subtract, multiply or divide two numbers dependi
 ```
 cmd > C:\python38\python.exe C:\python\projects\basic-calculator\calculator.py
 ```
-_Note: Modify the path for the python file accordingly_
+_Note: Modify the path of the python file accordingly_
 
 ## Sample Output
 ```
