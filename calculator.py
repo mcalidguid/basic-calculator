@@ -34,7 +34,7 @@ def divide(x, y):
         z = x / y
         return z
     except ZeroDivisionError:
-        print(">>>: Error: You are trying to divide a number by zero")
+        print(">>>: Error. You are trying to divide a number by zero.")
 
 
 while True:
@@ -72,4 +72,4 @@ while True:
         print_result(result)
 
     else:
-        print(">>>: Invalid input")
+        print(">>>: Invalid input. Please try again.")
