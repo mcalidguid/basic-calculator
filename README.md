@@ -71,7 +71,7 @@ _Note: Modify the path of the python file accordingly_
 >>>: /
 1st number: 9
 2nd number: 0
->>>: Error: You are trying to divide a number by zero.
+>>>: Error. You are trying to divide a number by zero.
 >>>: Try Again.
 ---------------------
     Select an option:
@@ -92,7 +92,7 @@ _Note: Modify the path of the python file accordingly_
         Enter "/" for division
         Enter "q" to quit
 >>>: 2
->>>: Invalid input
+>>>: Invalid input. Please try again.
 ---------------------
     Select an option:
         Enter "+" for addition
@@ -101,7 +101,7 @@ _Note: Modify the path of the python file accordingly_
         Enter "/" for division
         Enter "q" to quit
 >>>: k
->>>: Invalid input
+>>>: Invalid input. Please try again.
 ---------------------
     Select an option:
         Enter "+" for addition
@@ -110,7 +110,7 @@ _Note: Modify the path of the python file accordingly_
         Enter "/" for division
         Enter "q" to quit
 >>>: ~!
->>>: Invalid input
+>>>: Invalid input. Please try again.
 ---------------------
     Select an option:
         Enter "+" for addition
